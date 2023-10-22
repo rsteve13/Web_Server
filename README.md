@@ -5,9 +5,9 @@ Web server adalah perangkat lunak atau perangkat keras yang bertindak sebagai pu
 - ubuntu-20.04.6-live-server-amd64
 - VirtualBox 6.1
 - apache2
-- mariadb
+- mariadb 10.3.38
 - php
-- wordpress
+- wordpress 6.3.2
 
 # Perkembangan Web Server
 - 14/10/2023 Install Ubuntu Server
