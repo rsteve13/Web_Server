@@ -10,7 +10,7 @@ Web server adalah perangkat lunak atau perangkat keras yang bertindak sebagai pu
 - webmin
 - grafana
 
-# Perkembangan Web Server
+# Pengerjaan Web Server
 - 14/10/2023 Install Ubuntu Server
 - 16/10/2023 Install apache2
 - 17/10/2023 Install php
