@@ -7,7 +7,6 @@ Web server adalah perangkat lunak atau perangkat keras yang bertindak sebagai pu
 - Visual Studio Code
 - apache2
 - webmin
-- grafana
 
 # Pengerjaan Web Server
 - 14/10/2023 Install Ubuntu Server
@@ -15,7 +14,6 @@ Web server adalah perangkat lunak atau perangkat keras yang bertindak sebagai pu
 - 16/10/2023 Install apache2
 - 15/12/2023 Pembuatan Web di Visual Studio Code
 - 18/12/2023 Install Webmin
-- 18/12/2023 Install Grafana
 
 
 # Source Code HTML & CSS
