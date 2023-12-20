@@ -6,24 +6,15 @@ Web server adalah perangkat lunak atau perangkat keras yang bertindak sebagai pu
 - VirtualBox 6.1
 - Visual Studio Code
 - apache2
-- php
 - webmin
 - grafana
 
 # Pengerjaan Web Server
 - 14/10/2023 Install Ubuntu Server
-  
+- 14/10/2023 Install SSH (Default Ubuntu)
 - 16/10/2023 Install apache2
-  sudo apt install apache2
-  
-- 17/10/2023 Install php
-  sudo apt install php libapache2-mod-php
-  
 - 15/12/2023 Pembuatan Web di Visual Studio Code
-- 
 - 18/12/2023 Install Webmin
-  sudo apt install webmin
-  
 - 18/12/2023 Install Grafana
 
 
